@@ -1,0 +1,1 @@
+https://sqs.us-west-2.amazonaws.com/423737837413/EC3Queue
